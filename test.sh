@@ -1,1 +1,1 @@
-nosetests
+pytest
