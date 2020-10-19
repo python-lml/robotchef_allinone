@@ -1,3 +1,5 @@
+pytest
+pytest-cov
 nose
 codecov
 coverage
